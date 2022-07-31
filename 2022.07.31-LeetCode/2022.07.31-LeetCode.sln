@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Remove Duplicates from Sorted Array", "26. Remove Duplicates from Sorted Array\26. Remove Duplicates from Sorted Array.csproj", "{377D6FD5-45CF-4B10-BAAE-BC4C87F3949D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{4C3186FE-B452-48D2-A21B-C9BA1EDFC944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Implement strStr()", "28. Implement strStr()\28. Implement strStr().csproj", "{669DA12B-2AB7-45E4-B580-5393ECD6991B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{377D6FD5-45CF-4B10-BAAE-BC4C87F3949D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377D6FD5-45CF-4B10-BAAE-BC4C87F3949D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377D6FD5-45CF-4B10-BAAE-BC4C87F3949D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377D6FD5-45CF-4B10-BAAE-BC4C87F3949D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3186FE-B452-48D2-A21B-C9BA1EDFC944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3186FE-B452-48D2-A21B-C9BA1EDFC944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3186FE-B452-48D2-A21B-C9BA1EDFC944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3186FE-B452-48D2-A21B-C9BA1EDFC944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669DA12B-2AB7-45E4-B580-5393ECD6991B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669DA12B-2AB7-45E4-B580-5393ECD6991B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669DA12B-2AB7-45E4-B580-5393ECD6991B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669DA12B-2AB7-45E4-B580-5393ECD6991B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE554CE-C94E-4540-9084-59C4866B5A3C}
+	EndGlobalSection
+EndGlobal
